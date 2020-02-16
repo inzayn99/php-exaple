@@ -1,0 +1,1 @@
+<?php//calculation of simple intress$P = 150000;$T = 2.5;$R = 2.5;$SI = ($P * $T * $R) / 100;echo "Simple Interest = ". $SI;
